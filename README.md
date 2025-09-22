@@ -3,8 +3,6 @@ The New Era Of Infinite Use Of AI
 ---------------------------------
 A custom AI desktop application with a sleek, Apple-inspired interface, built from scratch with PyTorch and PyQt6.
 
-![DOAI Screenshot](screenshot.png)
-
 ## Features
 
 - 🚀 **Modern, responsive UI** inspired by Apple design
