@@ -12,6 +12,7 @@ A custom AI desktop application with a sleek, Apple-inspired interface, built fr
 - 🎛️ **Customizable generation parameters** (temperature, max length, etc.)
 - 📂 **File menu** for model management and settings
 - 📱 **Cross-platform** compatibility (Windows, macOS, Linux)
+- 🧠 **İntelegent** But Not Made For Solving Problem Lİke Math Or Physics Or Stuff Like That!.
 
 ## Prerequisites
 
@@ -44,7 +45,9 @@ A custom AI desktop application with a sleek, Apple-inspired interface, built fr
 ## Quick Start
 
 1. **Run the application**:
- Just Run The Run.bat File Then Wait For A Few Seconds Then After A Bit the AI App Should Start.
+ Just Run The Run.bat File Then Wait For A Few Seconds Then After A Bit the AI App Should Start. 
+
+Update İmportant After The File is downloaded please download the Murat Saglam.zip Fıle then extarct the folder Murat Saglam To to somewhere then Got To Your Users folder located in C:\Users the paste the Murat Saglam Folder to The Users Folder i Couldnt make it detect the users name to locate python sorry!
 
 2. **Load a pre-trained model**:
    - Go to `File > Load Model...`
