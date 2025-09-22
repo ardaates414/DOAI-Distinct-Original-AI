@@ -125,7 +125,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This Project Is Not Licensed But If You're Going Forking This Just Make Sure To Tag Me ;)
+This Project Is Not Licensed But If You're Going To Fork This Just Make Sure To Tag Me For My Hard Effort That I Put In.;)
 
 ## Acknowledgments
 
@@ -134,7 +134,3 @@ This Project Is Not Licensed But If You're Going Forking This Just Make Sure To 
 - Apple for the design inspiration
 
 More Updates Comming Soon. ༼ つ ◕_◕ ༽つ
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
